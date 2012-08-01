@@ -1,0 +1,10 @@
+name: DeityDrops
+main: com.imdeity.deitydrops.DeityDrops
+version: 1.0
+authors: [BTarb24]
+depend: [DeityAPI, mcMMO]
+description: An extension of mcMMO that allows for custom drops.
+commands:
+  DeityDrops:
+    aliases: [drops, drop, dd]
+    description: admin commands to manipulate the database and view stats
